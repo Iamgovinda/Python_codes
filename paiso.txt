@@ -1,0 +1,8 @@
+Paiso(Personal Finance Tracking System):
+--------------------------------------------------------------------------------------------------------------
+1>As a android user I want 'dark mode' feature in app so that I could use it with proper eye friendly vision.
+2>As a user I want 'sms mode' feature for payment so that I could topup balance in offline too.
+3>As a user I want 'UI customization' feature so that I could customize its Interface as my wish.
+4>As a user I want 'Multicurrency' feature so that I could deal with multiple currency transactions.
+5>As a user I want 'chat' feature so that i could communicate with my client directly though it.
+6>As a user I want 'Two factor authentication' feature so that noone could hack my account easily.

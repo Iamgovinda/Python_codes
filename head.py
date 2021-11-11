@@ -1,0 +1,1 @@
+print([i for i in range(9,0,-1)])
